@@ -2,9 +2,15 @@
   "RestResponse" : {
     "messages" : [ "Country found matching code [IN]." ],
     "result" : {
+      {  
       "name" : "India",
       "alpha2_code" : "IN",
       "alpha3_code" : "IND"
     }
+    {
+    "name" : "Bangladesh",
+      "alpha2_code" : "Ba",
+      "alpha3_code" : "Ban"
+  }
   }
 }
